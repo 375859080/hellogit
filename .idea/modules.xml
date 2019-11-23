@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hellogit.iml" filepath="$PROJECT_DIR$/hellogit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wdnmd.iml" filepath="$PROJECT_DIR$/wdnmd.iml" />
     </modules>
   </component>
 </project>
