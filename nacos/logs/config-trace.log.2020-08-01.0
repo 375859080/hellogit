@@ -1,0 +1,9 @@
+2020-08-01 22:32:47,525|172.17.66.17|mall-gateway|DEFAULT_GROUP|gateway|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:32:47,557|172.17.66.17|mall-gateway.properties|DEFAULT_GROUP|gateway|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:37:33,607|172.17.66.17|mall-product|DEFAULT_GROUP|product|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:37:33,621|172.17.66.17|mall-product.properties|DEFAULT_GROUP|product|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:46:44,052|172.17.66.17|mall-product|DEFAULT_GROUP|product|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:46:44,060|172.17.66.17|mall-product.properties|DEFAULT_GROUP|product|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:50:34,435|172.17.66.17|renren-fast|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:50:34,446|172.17.66.17|renren-fast.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-08-01 22:50:34,450|172.17.66.17|renren-fast-dev.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1

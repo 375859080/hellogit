@@ -1,0 +1,56 @@
+2020-08-05 00:01:22,779 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596556864022
+
+2020-08-05 00:01:37,792 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 00:01:37,793 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 
+
+2020-08-05 00:01:55,151 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 00:01:55,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+
+2020-08-05 00:40:03,213 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596559188011
+
+2020-08-05 00:40:18,263 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 00:40:18,263 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 
+
+2020-08-05 00:40:56,534 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 00:40:56,534 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+
+2020-08-05 00:53:18,437 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596559982524
+
+2020-08-05 00:53:33,466 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 00:53:33,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 
+
+2020-08-05 00:53:48,656 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-05 00:53:48,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+
+2020-08-05 01:22:18,971 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596561721048
+
+2020-08-05 01:22:26,823 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:88@DEFAULT@DEFAULT_GROUP@@mall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596561727812
+
+2020-08-05 01:22:26,995 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:30000@DEFAULT@DEFAULT_GROUP@@mall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1596561726994
+
+2020-08-05 01:22:26,995 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1596561727020
+
+2020-08-05 01:22:34,025 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 01:22:34,025 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 
+
+2020-08-05 01:22:37,017 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 01:22:37,017 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 
+
+2020-08-05 01:22:41,841 INFO DEFAULT_GROUP@@mall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:88:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 01:22:41,841 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-gateway, ips: 
+
+2020-08-05 01:22:42,020 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-05 01:22:42,020 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2020-08-05 01:24:36,856 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

@@ -1,0 +1,58 @@
+2020-08-02 00:01:19,311 INFO [capacityManagement] start correct usage
+
+2020-08-02 00:01:19,320 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 00:01:19,654 WARN clearConfigHistory start
+
+2020-08-02 00:11:19,321 INFO [capacityManagement] start correct usage
+
+2020-08-02 00:11:19,322 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 00:11:19,667 WARN clearConfigHistory start
+
+2020-08-02 00:21:19,323 INFO [capacityManagement] start correct usage
+
+2020-08-02 00:21:19,332 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 00:21:19,669 WARN clearConfigHistory start
+
+2020-08-02 00:31:19,335 INFO [capacityManagement] start correct usage
+
+2020-08-02 00:31:19,335 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 00:31:19,681 WARN clearConfigHistory start
+
+2020-08-02 00:41:19,337 INFO [capacityManagement] start correct usage
+
+2020-08-02 00:41:19,350 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 00:41:19,694 WARN clearConfigHistory start
+
+2020-08-02 00:51:19,350 INFO [capacityManagement] start correct usage
+
+2020-08-02 00:51:19,352 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 00:51:19,700 WARN clearConfigHistory start
+
+2020-08-02 01:01:19,363 INFO [capacityManagement] start correct usage
+
+2020-08-02 01:01:19,364 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-02 01:01:19,702 WARN clearConfigHistory start
+
+2020-08-02 01:05:59,351 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2020-08-02 01:05:59,352 WARN [HttpClientManager] Start destroying HttpClient
+
+2020-08-02 01:05:59,351 WARN [NotifyCenter] Start destroying Publisher
+
+2020-08-02 01:05:59,360 WARN [NotifyCenter] Destruction of the end
+
+2020-08-02 01:05:59,369 WARN [HttpClientManager] Destruction of the end
+
+2020-08-02 01:05:59,418 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-08-02 01:05:59,429 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+2020-08-02 01:06:22,891 WARN [ThreadPoolManager] Destruction of the end
+

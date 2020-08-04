@@ -1,0 +1,36 @@
+2020-07-30 00:48:52,863 INFO DEFAULT_GROUP@@mall-product is changed, add it to push queue.
+
+2020-07-30 00:48:52,880 INFO serviceName: DEFAULT_GROUP@@mall-product changed, schedule push for: 172.17.66.17:57650, agent: Nacos-Java-Client:v1.2.1, key: 172.17.66.17,57650,20700210616700
+
+2020-07-30 00:48:52,880 INFO send udp packet: 172.17.66.17,57650,20700210616700
+
+2020-07-30 00:48:52,902 INFO received ack: {"type": "push-ack", "lastRefTime":"20700210616700", "data":""} from: 172.17.66.17:57650, cost: 22 ms, unacked: 0, total push: 1
+
+2020-07-30 00:49:07,920 INFO DEFAULT_GROUP@@mall-product is changed, add it to push queue.
+
+2020-07-30 00:49:07,920 INFO serviceName: DEFAULT_GROUP@@mall-product changed, schedule push for: 172.17.66.17:57650, agent: Nacos-Java-Client:v1.2.1, key: 172.17.66.17,57650,20715258808200
+
+2020-07-30 00:49:07,922 INFO send udp packet: 172.17.66.17,57650,20715258808200
+
+2020-07-30 00:49:07,935 INFO received ack: {"type": "push-ack", "lastRefTime":"20715258808200", "data":""} from: 172.17.66.17:57650, cost: 13 ms, unacked: 0, total push: 2
+
+2020-07-30 00:49:29,947 INFO DEFAULT_GROUP@@mall-product is changed, add it to push queue.
+
+2020-07-30 00:49:29,947 INFO serviceName: DEFAULT_GROUP@@mall-product changed, schedule push for: 172.17.66.17:57650, agent: Nacos-Java-Client:v1.2.1, key: 172.17.66.17,57650,20737286464700
+
+2020-07-30 00:49:29,947 INFO send udp packet: 172.17.66.17,57650,20737286464700
+
+2020-07-30 00:49:29,951 INFO received ack: {"type": "push-ack", "lastRefTime":"20737286464700", "data":""} from: 172.17.66.17:57650, cost: 4 ms, unacked: 0, total push: 3
+
+2020-07-30 01:11:18,326 INFO DEFAULT_GROUP@@mall-product is changed, add it to push queue.
+
+2020-07-30 01:11:20,491 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2020-07-30 01:11:22,425 INFO DEFAULT_GROUP@@mall-gateway is changed, add it to push queue.
+
+2020-07-30 01:11:33,386 INFO DEFAULT_GROUP@@mall-product is changed, add it to push queue.
+
+2020-07-30 01:11:35,554 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2020-07-30 01:11:37,385 INFO DEFAULT_GROUP@@mall-gateway is changed, add it to push queue.
+

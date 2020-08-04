@@ -1,0 +1,28 @@
+2020-08-01 22:31:18,982 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-08-01 22:31:18,982 INFO listen for service meta change
+
+2020-08-01 22:33:12,613 INFO creating empty service public:DEFAULT_GROUP@@mall-gateway
+
+2020-08-01 22:33:12,704 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@mall-gateway","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1596292392622,"checksum":"f472d5037b64151e2cdea26fdffbbc68","clusterMap":{},"empty":true}
+
+2020-08-01 22:33:12,717 WARN cluster: DEFAULT not found, ip: {"instanceId":"172.17.66.17#88#DEFAULT#DEFAULT_GROUP@@mall-gateway","ip":"172.17.66.17","port":88,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@mall-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596292392581,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}, will create new cluster with default configuration.
+
+2020-08-01 22:33:12,772 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@mall-gateway, value: {"instanceList":[{"instanceId":"172.17.66.17#88#DEFAULT#DEFAULT_GROUP@@mall-gateway","ip":"172.17.66.17","port":88,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@mall-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596292392581,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]}
+
+2020-08-01 22:47:03,757 INFO creating empty service public:DEFAULT_GROUP@@mall-product
+
+2020-08-01 22:47:03,758 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@mall-product","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1596293223757,"checksum":"f100fb41436c8025b8a46d3de0fd015a","clusterMap":{},"empty":true}
+
+2020-08-01 22:47:03,758 WARN cluster: DEFAULT not found, ip: {"instanceId":"172.17.66.17#10000#DEFAULT#DEFAULT_GROUP@@mall-product","ip":"172.17.66.17","port":10000,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@mall-product","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596293223757,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}, will create new cluster with default configuration.
+
+2020-08-01 22:47:03,759 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@mall-product, value: {"instanceList":[{"instanceId":"172.17.66.17#10000#DEFAULT#DEFAULT_GROUP@@mall-product","ip":"172.17.66.17","port":10000,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@mall-product","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596293223757,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]}
+
+2020-08-01 22:51:00,103 INFO creating empty service public:DEFAULT_GROUP@@renren-fast
+
+2020-08-01 22:51:00,104 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@renren-fast","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1596293460103,"checksum":"bdb0d307d5900a8d4fa91105d2dc2529","clusterMap":{},"empty":true}
+
+2020-08-01 22:51:00,104 WARN cluster: DEFAULT not found, ip: {"instanceId":"172.17.66.17#8080#DEFAULT#DEFAULT_GROUP@@renren-fast","ip":"172.17.66.17","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@renren-fast","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596293460103,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}, will create new cluster with default configuration.
+
+2020-08-01 22:51:00,104 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@renren-fast, value: {"instanceList":[{"instanceId":"172.17.66.17#8080#DEFAULT#DEFAULT_GROUP@@renren-fast","ip":"172.17.66.17","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@renren-fast","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1596293460103,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]}
+

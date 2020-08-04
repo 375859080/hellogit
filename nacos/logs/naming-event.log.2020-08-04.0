@@ -1,0 +1,92 @@
+2020-08-04 00:24:37,315 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:30000@DEFAULT@DEFAULT_GROUP@@mall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1596471858894
+
+2020-08-04 00:24:52,809 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 00:24:52,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 
+
+2020-08-04 00:25:16,307 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 00:25:16,307 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 172.17.66.17:30000_true,
+
+2020-08-04 00:31:54,043 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:88@DEFAULT@DEFAULT_GROUP@@mall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1596472298018
+
+2020-08-04 00:32:09,052 INFO DEFAULT_GROUP@@mall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:88:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 00:32:09,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-gateway, ips: 
+
+2020-08-04 00:33:57,371 INFO DEFAULT_GROUP@@mall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 00:33:57,371 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-gateway, ips: 172.17.66.17:88_true,
+
+2020-08-04 00:39:57,954 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:30000@DEFAULT@DEFAULT_GROUP@@mall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1596472782356
+
+2020-08-04 00:40:12,967 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 00:40:12,968 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 
+
+2020-08-04 00:40:26,081 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 00:40:26,081 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 172.17.66.17:30000_true,
+
+2020-08-04 00:42:17,980 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:30000@DEFAULT@DEFAULT_GROUP@@mall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1596472921264
+
+2020-08-04 00:42:32,990 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 00:42:32,990 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 
+
+2020-08-04 00:42:41,847 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 00:42:41,847 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 172.17.66.17:30000_true,
+
+2020-08-04 00:54:38,111 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:30000@DEFAULT@DEFAULT_GROUP@@mall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1596473662753
+
+2020-08-04 00:54:53,123 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 00:54:53,123 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 
+
+2020-08-04 00:55:07,147 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 00:55:07,147 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 172.17.66.17:30000_true,
+
+2020-08-04 01:07:23,273 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:30000@DEFAULT@DEFAULT_GROUP@@mall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1596474428090
+
+2020-08-04 01:07:30,596 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596474431959
+
+2020-08-04 01:07:54,639 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2020-08-04 22:46:34,200 INFO DEFAULT_GROUP@@mall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 22:46:34,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-gateway, ips: 172.17.66.17:88_true,
+
+2020-08-04 22:54:41,206 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 22:54:41,206 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+
+2020-08-04 22:54:59,791 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 22:54:59,791 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 172.17.66.17:8080_true,
+
+2020-08-04 22:56:49,649 INFO DEFAULT_GROUP@@mall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 22:56:49,649 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-third-party, ips: 172.17.66.17:30000_true,
+
+2020-08-04 23:20:01,766 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596554383139
+
+2020-08-04 23:20:17,212 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 23:20:17,212 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 
+
+2020-08-04 23:20:40,589 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 23:20:40,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+
+2020-08-04 23:29:47,282 INFO {POS} {IP-DISABLED} valid: 172.17.66.17:10000@DEFAULT@DEFAULT_GROUP@@mall-product, region: unknown, msg: client timeout after 15000, last beat: 1596554971414
+
+2020-08-04 23:30:02,293 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-04 23:30:02,293 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 
+
+2020-08-04 23:30:26,529 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-04 23:30:26,529 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+

@@ -1,0 +1,12 @@
+2020-08-01 22:33:12,775 INFO DEFAULT_GROUP@@mall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-01 22:33:12,779 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-gateway, ips: 172.17.66.17:88_true,
+
+2020-08-01 22:47:03,759 INFO DEFAULT_GROUP@@mall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-01 22:47:03,759 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall-product, ips: 172.17.66.17:10000_true,
+
+2020-08-01 22:51:00,104 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.66.17:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-01 22:51:00,104 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 172.17.66.17:8080_true,
+
